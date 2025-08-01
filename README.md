@@ -1,1 +1,1 @@
-Just a simple geography quiz I made in January 2024.
+Just a simple geography quiz that I made in January 2024.
